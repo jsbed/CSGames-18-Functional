@@ -1,0 +1,300 @@
+turn on 887,9 to 959,629
+turn on 454,398 to 844,448
+turn off 539,243 to 559,965
+turn off 370,819 to 676,868
+turn off 145,40 to 370,997
+turn off 301,3 to 808,453
+turn on 351,678 to 951,908
+toggle 720,196 to 897,994
+toggle 831,394 to 904,860
+toggle 753,664 to 970,926
+turn off 150,300 to 213,740
+turn on 141,242 to 932,871
+toggle 294,259 to 474,326
+toggle 678,333 to 752,957
+toggle 393,804 to 510,976
+turn off 6,964 to 411,976
+turn off 33,572 to 978,590
+turn on 579,693 to 650,978
+turn on 150,20 to 652,719
+turn off 782,143 to 808,802
+turn off 240,377 to 761,468
+turn off 899,828 to 958,967
+turn on 613,565 to 952,659
+turn on 295,36 to 964,978
+toggle 846,296 to 969,528
+turn off 211,254 to 529,491
+turn off 231,594 to 406,794
+turn off 169,791 to 758,942
+turn on 955,440 to 980,477
+toggle 944,498 to 995,928
+turn on 519,391 to 605,718
+toggle 521,303 to 617,366
+turn off 524,349 to 694,791
+toggle 391,87 to 499,792
+toggle 562,527 to 668,935
+turn off 68,358 to 857,453
+toggle 815,811 to 889,828
+turn off 666,61 to 768,87
+turn on 27,501 to 921,952
+turn on 953,102 to 983,471
+turn on 277,552 to 451,723
+turn off 64,253 to 655,960
+turn on 47,485 to 734,977
+turn off 59,119 to 699,734
+toggle 407,898 to 493,955
+toggle 912,966 to 949,991
+turn on 479,990 to 895,990
+toggle 390,589 to 869,766
+toggle 593,903 to 926,943
+toggle 358,439 to 870,528
+turn off 649,410 to 652,875
+turn on 629,834 to 712,895
+toggle 254,555 to 770,901
+toggle 641,832 to 947,850
+turn on 268,448 to 743,777
+turn off 512,123 to 625,874
+turn off 498,262 to 930,811
+turn off 835,158 to 886,242
+toggle 546,310 to 607,773
+turn on 501,505 to 896,909
+turn off 666,796 to 817,924
+toggle 987,789 to 993,809
+toggle 745,8 to 860,693
+toggle 181,983 to 731,988
+turn on 826,174 to 924,883
+turn on 239,228 to 843,993
+turn on 205,613 to 891,667
+toggle 867,873 to 984,896
+turn on 628,251 to 677,681
+toggle 276,956 to 631,964
+turn on 78,358 to 974,713
+turn on 521,360 to 773,597
+turn off 963,52 to 979,502
+turn on 117,151 to 934,622
+toggle 237,91 to 528,164
+turn on 944,269 to 975,453
+toggle 979,460 to 988,964
+turn off 440,254 to 681,507
+toggle 347,100 to 896,785
+turn off 329,592 to 369,985
+turn on 931,960 to 979,985
+toggle 703,3 to 776,36
+toggle 798,120 to 908,550
+turn off 186,605 to 914,709
+turn off 921,725 to 979,956
+toggle 167,34 to 735,249
+turn on 726,781 to 987,936
+toggle 720,336 to 847,756
+turn on 171,630 to 656,769
+turn off 417,276 to 751,500
+toggle 559,485 to 584,534
+turn on 568,629 to 690,873
+toggle 248,712 to 277,988
+toggle 345,594 to 812,723
+turn off 800,108 to 834,618
+turn off 967,439 to 986,869
+turn on 842,209 to 955,529
+turn on 132,653 to 357,696
+turn on 817,38 to 973,662
+turn off 569,816 to 721,861
+turn on 568,429 to 945,724
+turn on 77,458 to 844,685
+turn off 138,78 to 498,851
+turn on 136,21 to 252,986
+turn off 2,460 to 863,472
+turn on 172,81 to 839,332
+turn on 123,216 to 703,384
+turn off 879,644 to 944,887
+toggle 227,491 to 504,793
+toggle 580,418 to 741,479
+toggle 65,276 to 414,299
+toggle 482,486 to 838,931
+turn off 557,768 to 950,927
+turn off 615,617 to 955,864
+turn on 859,886 to 923,919
+turn on 391,330 to 499,971
+toggle 521,835 to 613,847
+turn on 822,787 to 989,847
+turn on 192,142 to 357,846
+turn off 564,945 to 985,945
+turn off 479,361 to 703,799
+toggle 56,481 to 489,978
+turn off 632,991 to 774,998
+toggle 723,526 to 945,792
+turn on 344,149 to 441,640
+toggle 568,927 to 624,952
+turn on 621,784 to 970,788
+toggle 665,783 to 795,981
+toggle 386,610 to 817,730
+toggle 440,399 to 734,417
+toggle 939,201 to 978,803
+turn off 395,883 to 554,929
+turn on 340,309 to 637,561
+turn off 875,147 to 946,481
+turn off 945,837 to 957,922
+turn off 429,982 to 691,991
+toggle 227,137 to 439,822
+toggle 4,848 to 7,932
+turn off 545,146 to 756,943
+turn on 763,863 to 937,994
+turn on 232,94 to 404,502
+turn off 742,254 to 930,512
+turn on 91,931 to 101,942
+toggle 585,106 to 651,425
+turn on 506,700 to 567,960
+turn off 548,44 to 718,352
+turn off 194,827 to 673,859
+turn off 6,645 to 509,764
+turn off 13,230 to 821,361
+turn on 734,629 to 919,631
+toggle 788,552 to 957,972
+toggle 244,747 to 849,773
+turn off 162,553 to 276,887
+turn off 569,577 to 587,604
+turn off 799,482 to 854,956
+turn on 744,535 to 909,802
+toggle 330,641 to 396,986
+turn off 927,458 to 966,564
+toggle 984,486 to 986,913
+toggle 519,682 to 632,708
+turn on 984,977 to 989,986
+toggle 766,423 to 934,495
+turn on 17,509 to 947,718
+turn on 413,783 to 631,903
+turn on 482,370 to 493,688
+turn on 433,859 to 628,938
+turn off 769,549 to 945,810
+turn on 178,853 to 539,941
+turn off 203,251 to 692,433
+turn off 525,638 to 955,794
+turn on 169,70 to 764,939
+toggle 59,352 to 896,404
+toggle 143,245 to 707,320
+turn off 103,35 to 160,949
+toggle 496,24 to 669,507
+turn off 581,847 to 847,903
+turn on 689,153 to 733,562
+turn on 821,487 to 839,699
+turn on 837,627 to 978,723
+toggle 96,748 to 973,753
+toggle 99,818 to 609,995
+turn on 731,193 to 756,509
+turn off 622,55 to 813,365
+turn on 456,490 to 576,548
+turn on 48,421 to 163,674
+turn off 853,861 to 924,964
+turn off 59,963 to 556,987
+turn on 458,710 to 688,847
+toggle 12,484 to 878,562
+turn off 241,964 to 799,983
+turn off 434,299 to 845,772
+toggle 896,725 to 956,847
+turn on 740,289 to 784,345
+turn off 395,840 to 822,845
+turn on 955,224 to 996,953
+turn off 710,186 to 957,722
+turn off 485,949 to 869,985
+turn on 848,209 to 975,376
+toggle 221,241 to 906,384
+turn on 588,49 to 927,496
+turn on 273,332 to 735,725
+turn on 505,962 to 895,962
+toggle 820,112 to 923,143
+turn on 919,792 to 978,982
+toggle 489,461 to 910,737
+turn off 202,642 to 638,940
+turn off 708,953 to 970,960
+toggle 437,291 to 546,381
+turn on 409,358 to 837,479
+turn off 756,279 to 870,943
+turn off 154,657 to 375,703
+turn off 524,622 to 995,779
+toggle 514,221 to 651,850
+toggle 808,464 to 886,646
+toggle 483,537 to 739,840
+toggle 654,769 to 831,825
+turn off 326,37 to 631,69
+turn off 590,570 to 926,656
+turn off 881,913 to 911,998
+turn on 996,102 to 998,616
+turn off 677,503 to 828,563
+turn on 860,251 to 877,441
+turn off 964,100 to 982,377
+toggle 888,403 to 961,597
+turn off 632,240 to 938,968
+toggle 731,176 to 932,413
+turn on 5,498 to 203,835
+turn on 819,352 to 929,855
+toggle 393,813 to 832,816
+toggle 725,689 to 967,888
+turn on 968,950 to 969,983
+turn off 152,628 to 582,896
+turn off 165,844 to 459,935
+turn off 882,741 to 974,786
+turn off 283,179 to 731,899
+toggle 197,366 to 682,445
+turn on 106,309 to 120,813
+toggle 950,387 to 967,782
+turn off 274,603 to 383,759
+turn off 155,665 to 284,787
+toggle 551,871 to 860,962
+turn off 30,826 to 598,892
+toggle 76,552 to 977,888
+turn on 938,180 to 994,997
+toggle 62,381 to 993,656
+toggle 625,861 to 921,941
+turn on 685,311 to 872,521
+turn on 124,934 to 530,962
+turn on 606,379 to 961,867
+turn off 792,735 to 946,783
+turn on 417,480 to 860,598
+toggle 178,91 to 481,887
+turn off 23,935 to 833,962
+toggle 317,14 to 793,425
+turn on 986,89 to 999,613
+turn off 359,201 to 560,554
+turn off 729,494 to 942,626
+turn on 204,143 to 876,610
+toggle 474,97 to 636,542
+turn off 902,924 to 976,973
+turn off 389,442 to 824,638
+turn off 622,863 to 798,863
+turn on 840,622 to 978,920
+toggle 567,374 to 925,439
+turn off 643,319 to 935,662
+toggle 185,42 to 294,810
+turn on 47,124 to 598,880
+toggle 828,303 to 979,770
+turn off 174,272 to 280,311
+turn off 540,50 to 880,212
+turn on 141,994 to 221,998
+turn on 476,695 to 483,901
+turn on 960,216 to 972,502
+toggle 752,335 to 957,733
+turn off 419,713 to 537,998
+toggle 772,846 to 994,888
+turn on 881,159 to 902,312
+turn off 537,651 to 641,816
+toggle 561,947 to 638,965
+turn on 368,458 to 437,612
+turn on 290,149 to 705,919
+turn on 711,918 to 974,945
+toggle 916,242 to 926,786
+toggle 522,272 to 773,314
+turn on 432,897 to 440,954
+turn off 132,169 to 775,380
+toggle 52,205 to 693,747
+toggle 926,309 to 976,669
+turn off 838,342 to 938,444
+turn on 144,431 to 260,951
+toggle 780,318 to 975,495
+turn off 185,412 to 796,541
+turn on 879,548 to 892,860
+turn on 294,132 to 460,338
+turn on 823,500 to 899,529
+turn off 225,603 to 483,920
+toggle 717,493 to 930,875
+toggle 534,948 to 599,968
+turn on 522,730 to 968,950
+turn off 102,229 to 674,529
